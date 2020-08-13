@@ -2,11 +2,13 @@
   "name": "recipesearch",
   "displayName": "recipesearch",
   "expo": {
-    "name": "recipesearch",
-    "slug": "recipesearch",
+    "name": "Recipe Search",
+    "slug": "recipe-search",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "description": "Expo site for the recipe search application.",
+    "githubUrl": "https://github.com/solorzke/recipe-search"
   }
 }
